@@ -1,3 +1,3 @@
-var iDiagnose = {};
-
-iDiagnose
+var iDiagnose = (function () {
+        
+});
